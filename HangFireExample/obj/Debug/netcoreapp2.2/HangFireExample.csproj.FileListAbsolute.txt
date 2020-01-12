@@ -1,0 +1,16 @@
+C:\Users\GelsonNote\source\repos\HangFireExample\HangFireExample\obj\Debug\netcoreapp2.2\HangFireExample.RazorAssemblyInfo.cache
+C:\Users\GelsonNote\source\repos\HangFireExample\HangFireExample\obj\Debug\netcoreapp2.2\HangFireExample.RazorAssemblyInfo.cs
+C:\Users\GelsonNote\source\repos\HangFireExample\HangFireExample\obj\Debug\netcoreapp2.2\HangFireExample.AssemblyInfoInputs.cache
+C:\Users\GelsonNote\source\repos\HangFireExample\HangFireExample\obj\Debug\netcoreapp2.2\HangFireExample.AssemblyInfo.cs
+C:\Users\GelsonNote\source\repos\HangFireExample\HangFireExample\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\GelsonNote\source\repos\HangFireExample\HangFireExample\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\GelsonNote\source\repos\HangFireExample\HangFireExample\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\GelsonNote\source\repos\HangFireExample\HangFireExample\bin\Debug\netcoreapp2.2\HangFireExample.deps.json
+C:\Users\GelsonNote\source\repos\HangFireExample\HangFireExample\bin\Debug\netcoreapp2.2\HangFireExample.runtimeconfig.json
+C:\Users\GelsonNote\source\repos\HangFireExample\HangFireExample\bin\Debug\netcoreapp2.2\HangFireExample.runtimeconfig.dev.json
+C:\Users\GelsonNote\source\repos\HangFireExample\HangFireExample\bin\Debug\netcoreapp2.2\HangFireExample.dll
+C:\Users\GelsonNote\source\repos\HangFireExample\HangFireExample\obj\Debug\netcoreapp2.2\HangFireExample.RazorTargetAssemblyInfo.cache
+C:\Users\GelsonNote\source\repos\HangFireExample\HangFireExample\bin\Debug\netcoreapp2.2\HangFireExample.pdb
+C:\Users\GelsonNote\source\repos\HangFireExample\HangFireExample\obj\Debug\netcoreapp2.2\HangFireExample.dll
+C:\Users\GelsonNote\source\repos\HangFireExample\HangFireExample\obj\Debug\netcoreapp2.2\HangFireExample.pdb
+C:\Users\GelsonNote\source\repos\HangFireExample\HangFireExample\obj\Debug\netcoreapp2.2\HangFireExample.csprojAssemblyReference.cache
